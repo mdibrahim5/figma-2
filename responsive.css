@@ -1,0 +1,28 @@
+@media only screen and (max-width: 900px){
+    .logo-area ul li {
+        list-style: none;
+        display: block;
+        width: 100%;
+   
+    }
+    .logo-area ul li img {
+        width: 100%;
+    }
+    
+}
+@media only screen and (max-width: 400px) {
+    .cowork-heading h2,
+    .explore-text h2,
+    .join-heading h2 {
+        font-size: 25px;
+    }
+    .hero-area h1 {
+        font-size: 30px;
+    }
+    .cowork-heading img,
+    .explore-text img,
+    .join-heading img {
+        width: 30%;
+    }
+    
+}
